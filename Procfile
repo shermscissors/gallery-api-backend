@@ -1,1 +1,1 @@
-web: gunicorn stunts-gallery.wsgi
+web: gunicorn gallery_django.wsgi
